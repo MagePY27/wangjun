@@ -7,7 +7,7 @@ typora-root-url: ./image
 
 1. 乘法口诀表
 
-   ![](/Multiplication-table.png)
+   ![Multiplication-table.png](./image/Multiplication-table.png)
 
    
 
